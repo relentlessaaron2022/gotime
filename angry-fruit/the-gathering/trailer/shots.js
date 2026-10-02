@@ -440,12 +440,18 @@ function renderFrame(ctx, T, frame) {
   let s = SHOTS.find(q => T >= q.t0 && T < q.t1) || SHOTS[SHOTS.length - 1];
   if (T < 19.6 && T >= 19.25) s = { t0: 19.25, t1: 19.6, draw: c => { c.fillStyle = '#000'; c.fillRect(0, 0, W, H); }, noGrade: true };
   const lt = T - s.t0, u = clamp(lt / (s.t1 - s.t0));
+  if (window.OVERLAY_ONLY) { // transparent layer: letterbox + captions only, for compositing generated footage
+    ctx.clearRect(0, 0, W, H);
+    const lb = T < 50.05 ? 1 : 1 - E.io(inv(50.05, 51.0, T)); letterbox(ctx, lb);
+    const [cap, ca] = captionAt(T); caption(ctx, cap, ca, lb); return;
+  }
   ctx.save(); s.draw(ctx, u, lt, T, frame); ctx.restore();
   if (s.post) s.post(ctx, lt);
   if (!s.noGrade) { vignette(ctx, .75); grain(ctx, frame, .08); }
   else grain(ctx, frame, .05);
   if (s.fadeIn && lt < s.fadeIn) { ctx.fillStyle = `rgba(0,0,0,${1 - lt / s.fadeIn})`; ctx.fillRect(0, 0, W, H); }
   // letterbox: 2.39 through the teaser, opens to 16:9 on the gates
+  if (window.CLEAN) return; // reference frames for generation: no bars, no captions
   const lb = T < 50.05 ? 1 : 1 - E.io(inv(50.05, 51.0, T));
   letterbox(ctx, lb);
   const [cap, ca] = captionAt(T);
