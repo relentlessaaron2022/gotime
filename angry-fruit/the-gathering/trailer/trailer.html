@@ -1,0 +1,11 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Angry Fruit: The Gathering</title><style>
+@font-face{font-family:Oswald;src:url(fonts/Oswald-500.woff2);font-weight:100 900}
+@font-face{font-family:Cinzel;src:url(fonts/Cinzel-900.woff2);font-weight:900}
+body{margin:0;background:#000}canvas{display:block}</style></head><body><canvas id=c width=1920 height=1080></canvas>
+<script src=lib.js></script><script src=chars.js></script><script src=env.js></script><script src=shots.js></script><script src=audio.js></script><script>
+const cv=document.getElementById('c'),ctx=cv.getContext('2d');initGrain();
+window.renderAt=(T)=>renderFrame(ctx,T,Math.round(T*FPS));
+window.sheet=(times,cols=4)=>{const tw=480,th=270,rows=Math.ceil(times.length/cols);const s=document.createElement('canvas');s.width=tw*cols;s.height=th*rows;const sx=s.getContext('2d');sx.font='bold 22px sans-serif';
+ times.forEach((T,i)=>{renderAt(T);sx.drawImage(cv,(i%cols)*tw,Math.floor(i/cols)*th,tw,th);sx.fillStyle='#ff0';sx.fillText(T.toFixed(2),(i%cols)*tw+6,Math.floor(i/cols)*th+24);});
+ cv.width=s.width;cv.height=s.height;ctx.drawImage(s,0,0);};
+</script></body></html>
