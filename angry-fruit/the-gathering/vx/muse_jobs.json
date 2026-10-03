@@ -1,0 +1,2283 @@
+{
+ "project": "ANGRY FRUIT: THE GATHERING (Video Express cut)",
+ "clip_seconds": 10,
+ "jobs": [
+  {
+   "job": "REF_strawberry",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/strawberry.png",
+   "done": false
+  },
+  {
+   "job": "REF_pork-tribe",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. Massive 4.5-scale boar-shaped warriors seen only as backlit silhouettes, heavy hunched heads, long curved yellowed tusks catching ember light, cured-leather lamellar armor laced with coarse butcher's twine, iron meat hooks and chains hanging from their belts, carrying tall iron brazier-standards trailing smoke, breath steaming in the cold. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/pork-tribe.png",
+   "done": false
+  },
+  {
+   "job": "REF_beef-tribe",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. Colossal 6.5-scale bull-shaped warriors seen only as backlit silhouettes, enormous wide-spread horns capped with riveted steel, riveted steel plate armor over hide stamped with glowing ember-orange brand sigils, iron-shod hooves that crack the ground, breath steaming in the cold. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/beef-tribe.png",
+   "done": false
+  },
+  {
+   "job": "REF_watermelon",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A tall, heavy watermelon-bodied man, 1.6 scale, oval, deep green rind (#1F4D2B) with pale lime stripes running vertically, heavy-lidded patient eyes, a faint grey frost on the rind at the temples; wears a black three-piece funeral suit, crisp white shirt, black tie with a silver tie bar, long black leather gloves, a silver pocket-watch chain across the vest, a yellow cloth tailor's measuring tape draped around his neck. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/watermelon.png",
+   "done": false
+  },
+  {
+   "job": "REF_avocado",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. An avocado-bodied man, 1.1 scale, pear-shaped, pebbled matte near-black green Hass skin (#2E3B1F), sharp narrow eyes behind thin gold rimless reading glasses; wears a tailored charcoal pinstripe suit, burgundy silk tie, small gold cufflinks shaped like scales of justice, and carries a brushed-steel hard-shell briefcase. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/avocado.png",
+   "done": false
+  },
+  {
+   "job": "REF_corn",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A tall corn-cob man, 1.7 scale, rows of glossy butter-yellow kernels (#F2C230), his own long green husk leaves falling open around him like a duster coat, pale gold corn silk hanging to his shoulders like long hair, a flat-brim dark brown felt hat, squinting eyes, a brass bail-bonds badge clipped to his belt, carrying a heavy blackened-steel six-chamber revolver-style launcher whose cylinder is loaded with hard dried kernels. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/corn.png",
+   "done": false
+  },
+  {
+   "job": "REF_broccoli",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A massive broccoli man, 1.8 scale, a wide thick pale-green stalk body (#6E9B3A) topped by a dense dark-green floret crown (#2F5A1E) trimmed flat like a flattop haircut, small deep-set eyes, no visible neck; wears a plain black crew-neck T-shirt stretched tight, a coiled clear earpiece in the side of his crown, white athletic tape wrapped across his enormous knuckles. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/broccoli.png",
+   "done": false
+  },
+  {
+   "job": "REF_chili",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A lean, curved red chili-pepper man, 1.15 scale, high-gloss fire-engine-red skin (#D7261E), a green stem curled over the top of his head like a combover, a huge bright salesman's grin, wide expressive eyebrows; wears a loud mustard-and-teal plaid sport coat whose inner lining is packed with gadgets (dangling key fobs, a road flare, a long grill lighter, a compact air horn, a folded miniature inflatable tube man), an open-collar cream shirt, a thin gold chain. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/chili.png",
+   "done": false
+  },
+  {
+   "job": "REF_potato",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A lumpy russet potato man, 0.9 scale, dusty brown skin (#8A6A45) with small dark sprout-eyes dotted across his body and a little dirt in the creases, an enormous earnest grin, bright eager eyes; wears homemade battle armor: a dented steel colander as a helmet strapped under his chin, a scratched aluminum baking sheet tied on as a breastplate with kitchen twine, mismatched red (left) and blue (right) quilted oven-mitt gauntlets, a black headset microphone, and a gold satin sash across his chest. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/potato.png",
+   "done": false
+  },
+  {
+   "job": "REF_lemon",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A lemon-bodied woman, 1.0 scale, soft matte pale-yellow dimpled peel (#EFD96A), a small green leaf tucked at the side of her head, calm skeptical eyes behind tortoiseshell cat-eye glasses on a beaded chain; wears an oversized cream cable-knit cardigan, a sage-green knit scarf, and holds a worn brown leather notepad and a pen. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/lemon.png",
+   "done": false
+  },
+  {
+   "job": "REF_carrot",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A tall lean carrot man, 1.4 scale, a tapered ridged orange body (#E8731C) with fine pale root hairs, a feathery green top tied back in a short ponytail, gaunt cheeks, mirrored aviator sunglasses; wears faded navy work coveralls with the sleeves rolled, a heavy steel tow chain looped over one shoulder. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/carrot.png",
+   "done": false
+  },
+  {
+   "job": "REF_carrots-truck",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A battered 1970s produce flatbed truck, faded rust-red paint, a dented hood, mud-caked wheel wells, a wooden slat bed, one cracked headlight. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/carrots-truck.png",
+   "done": false
+  },
+  {
+   "job": "REF_grapes",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. A committee of seven grapes, each about 0.25 scale with tiny stick limbs: six deep-purple concord grapes (#4B1E4F) with dusty bloom, each wearing one tiny mismatched accessory (a red bow tie, a knit beanie, a lanyard, half-moon reading glasses, a whistle, an armband), and GERALD, a single pale green grape (#B5C96A) in a too-big tan cardigan with small round spectacles. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/grapes.png",
+   "done": false
+  },
+  {
+   "job": "REF_celery",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. Towering 2.4-scale pale-green ribbed celery stalk warriors with leafy tops, carrying long wooden pikes. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/celery.png",
+   "done": false
+  },
+  {
+   "job": "REF_pineapples",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. 1.6-scale pineapples whose natural scaled skin reads as armor, spiky green crowns like helmet crests, carrying round wooden shields. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/pineapples.png",
+   "done": false
+  },
+  {
+   "job": "REF_onions",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. 0.9-scale golden papery-skinned onions with tears streaming from their eyes, loading crossbows with stoic determination. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/onions.png",
+   "done": false
+  },
+  {
+   "job": "REF_blueberries",
+   "type": "image",
+   "aspect": "any",
+   "inputs": [],
+   "prompt": "Character reference sheet, neutral grey studio background, full body front view plus three-quarter view, even soft lighting. Tiny 0.15-scale dusty-blue blueberries with a five-point crown on top, red bandanas, carrying slingshots. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "refs/blueberries.png",
+   "done": false
+  },
+  {
+   "job": "S01_h_image",
+   "type": "image",
+   "shot": "S01",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [],
+   "prompt": "Complete darkness except for the faintest smoky reddish glow near the bottom of frame. Fine dust particles suspended in the dark. No characters visible. Deep blacks, volumetric haze, ominous. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S01_h.png",
+   "done": false
+  },
+  {
+   "job": "S01_h_video",
+   "type": "video",
+   "shot": "S01",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S01_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Total darkness, a faint red glow at the bottom edge, dust hanging still. 3–6s: Very slow push forward through drifting smoke. THUD... THUD... THUD: three enormous distant impacts; the dust jumps with each one, and the third is strongest. 6–10s: The glow pulses once and dims. Silence. Nothing is revealed. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S01_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [],
+   "done": false
+  },
+  {
+   "job": "S02_h_image",
+   "type": "image",
+   "shot": "S02",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "Extreme macro close-up of A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. Only his left eye and the skin around it fill the frame, the small pale pit-scar of the missing seed just above the eye. Fine dirt and battlefield dust on the skin. Hard red-orange rim light, deep shadow. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S02_h.png",
+   "done": false
+  },
+  {
+   "job": "S02_h_video",
+   "type": "video",
+   "shot": "S02",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S02_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Extreme close-up, the eye closed, ash drifting through a thin blade of light. A distant rumble begins. 3–6s: The eye opens slowly, cold and alert, the pupil snapping to something off-camera. He whispers: \"They're coming.\" 6–10s: Hold on the eye. Each distant thud makes the frame shiver; the eye does not blink. Very slow push-in throughout. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S02_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "They're coming."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S03_h_image",
+   "type": "image",
+   "shot": "S03",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [],
+   "prompt": "Enormous establishing shot of a produce civilization at night: an old produce market grown into dense urban neighborhoods, giant greenhouse architecture, orchards woven through the streets, irrigation canals, lantern-lit stalls and towering organic structures. Tiny produce citizens move through the streets far below. Moon-blue light, warm amber windows, distant mountains and farmland. Huge scale, atmospheric haze. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S03_h.png",
+   "done": false
+  },
+  {
+   "job": "S03_h_video",
+   "type": "video",
+   "shot": "S03",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S03_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: High above Produce City at night, gliding forward; lights and tiny citizens below, everything peaceful. 3–6s: Descend toward the rooftops. Birds burst out of the far fields and a tremor runs through the city: hanging signs sway, canal water ripples. 6–10s: Keep descending to a street corner where citizens stop and turn toward the dark horizon. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S03_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [],
+   "done": false
+  },
+  {
+   "job": "S04_h_image",
+   "type": "image",
+   "shot": "S04",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/pork-tribe.png",
+    "refs/beef-tribe.png"
+   ],
+   "prompt": "Epic ultra-wide shot at night. Beyond dark farmland the Herd emerges through thick smoke against hard orange backlight: Massive 4.5-scale boar-shaped warriors seen only as backlit silhouettes, heavy hunched heads, long curved yellowed tusks catching ember light, cured-leather lamellar armor laced with coarse butcher's twine, iron meat hooks and chains hanging from their belts, carrying tall iron brazier-standards trailing smoke, breath steaming in the cold. Colossal 6.5-scale bull-shaped warriors seen only as backlit silhouettes, enormous wide-spread horns capped with riveted steel, riveted steel plate armor over hide stamped with glowing ember-orange brand sigils, iron-shod hooves that crack the ground, breath steaming in the cold. Banners, crude iron war machines, hundreds of distant soldiers. Every figure is a backlit silhouette; no face, eye or mouth is readable. Dust rises behind thousands of marching feet. Imposing and organized. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S04_h.png",
+   "done": false
+  },
+  {
+   "job": "S04_h_video",
+   "type": "video",
+   "shot": "S04",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S04_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Smoke and orange backlight over dark farmland; only shapes. 3–6s: The Herd emerges, silhouettes advancing in heavy synchronized steps that shake the ground; banners whip. 6–10s: One colossal Beef silhouette looms out of the smoke, horn edges catching ember light, then sinks back. The camera pulls back slowly the whole time. Faces stay black. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S04_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [
+    "Pork Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes.",
+    "Beef Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes."
+   ],
+   "done": false
+  },
+  {
+   "job": "S05_h_image",
+   "type": "image",
+   "shot": "S05",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He sits in his pirate-radio livestream studio inside a root cellar: earthen walls, a cluttered desk with a vintage microphone, three mismatched monitors, maps, photographs, a red-string evidence board and hand-drawn diagrams of troop movements beyond the pasture. Homemade but obsessive. A bare tungsten bulb and monitor glow, deep shadow. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S05_h.png",
+   "done": false
+  },
+  {
+   "job": "S05_h_video",
+   "type": "video",
+   "shot": "S05",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S05_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Strawberry jabs a finger at the map on his evidence board. 3–6s: He swings back to the livestream monitor, reads the viewer count and freezes. Flat, insulted disbelief: \"Three viewers?\" 6–10s: A distant THUD swings the bare bulb above him. The light rocks across his face. He slowly looks up at the ceiling. Camera nearly still. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S05_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Three viewers?"
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S07_h_image",
+   "type": "image",
+   "shot": "S07",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He stands at the head of a battered table in the root cellar, now an emergency war room. A large hand-drawn map of Produce Territory covers the table. Empty chairs all around. He points hard at a circled location. Single overhead bulb, red warning glow, deep shadows. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S07_h.png",
+   "done": false
+  },
+  {
+   "job": "S07_h_video",
+   "type": "video",
+   "shot": "S07",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S07_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Strawberry rolls the map across the table with one hard push; the camera tracks the map. 3–6s: Tilt up to his face, both hands planted on the table: \"Stop arguing. Start surviving.\" 6–10s: Hold on him. Dust sifts from the ceiling. He does not move. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S07_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Stop arguing. Start surviving."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S08_h_image",
+   "type": "image",
+   "shot": "S08",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/watermelon.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A tall, heavy watermelon-bodied man, 1.6 scale, oval, deep green rind (#1F4D2B) with pale lime stripes running vertically, heavy-lidded patient eyes, a faint grey frost on the rind at the temples; wears a black three-piece funeral suit, crisp white shirt, black tie with a silver tie bar, long black leather gloves, a silver pocket-watch chain across the vest, a yellow cloth tailor's measuring tape draped around his neck. He stands inside an elegant produce funeral home beside a closed casket sized for produce, back half-turned to the doorway. Strawberry waits small in the doorway behind him, out of focus. Moody warm lamplight. Dark comedy played completely straight. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S08_h.png",
+   "done": false
+  },
+  {
+   "job": "S08_h_video",
+   "type": "video",
+   "shot": "S08",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S08_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Watermelon stands beside the casket, back half-turned, and begins to pull off one long black glove. 3–6s: Finger by finger the glove comes off. Without turning around he says: \"Everybody ends up here.\" 6–10s: Unhurried, he turns his head toward the doorway where Strawberry waits and gives one slow blink. Slow push-in throughout. Voice for Watermelon: man in his sixties, deep velvet bass, very slow, soft and patient, long pauses. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S08_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "WATERMELON",
+     "line": "Everybody ends up here."
+    }
+   ],
+   "checks": [
+    "Watermelon: must match: Vertical stripes, funeral suit, yellow tape. Reject: Horizontal stripes, a cut/red flesh showing, a colored tie.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S09_h_image",
+   "type": "image",
+   "shot": "S09",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/avocado.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "An avocado-bodied man, 1.1 scale, pear-shaped, pebbled matte near-black green Hass skin (#2E3B1F), sharp narrow eyes behind thin gold rimless reading glasses; wears a tailored charcoal pinstripe suit, burgundy silk tie, small gold cufflinks shaped like scales of justice, and carries a brushed-steel hard-shell briefcase. He walks briskly down wide stone courthouse steps in Produce City, reading paperwork. Strawberry waits at the bottom of the steps. Late afternoon light, long shadows. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S09_h.png",
+   "done": false
+  },
+  {
+   "job": "S09_h_video",
+   "type": "video",
+   "shot": "S09",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S09_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Avocado comes down the courthouse steps reading paperwork, never slowing; the camera tracks backward with him. 3–6s: Strawberry steps into his path: \"I need a war lawyer.\" 6–10s: Avocado stops dead, looks at Strawberry over his gold glasses, then slowly closes the folder. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S09_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "I need a war lawyer."
+    }
+   ],
+   "checks": [
+    "Avocado: must match: Matte pebbled dark skin, gold rimless glasses. Reject: Bright smooth green skin, a halved avocado with the pit showing.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S10_h_image",
+   "type": "image",
+   "shot": "S10",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/corn.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A tall corn-cob man, 1.7 scale, rows of glossy butter-yellow kernels (#F2C230), his own long green husk leaves falling open around him like a duster coat, pale gold corn silk hanging to his shoulders like long hair, a flat-brim dark brown felt hat, squinting eyes, a brass bail-bonds badge clipped to his belt, carrying a heavy blackened-steel six-chamber revolver-style launcher whose cylinder is loaded with hard dried kernels. He stands outside a gritty bail-bonds storefront in Produce City at sunset, hand still on the door he just locked. Strawberry approaches from frame left. Western framing, low warm sun, dust in the air. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S10_h.png",
+   "done": false
+  },
+  {
+   "job": "S10_h_video",
+   "type": "video",
+   "shot": "S10",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S10_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Corn locks the bail-bonds door and turns, sees Strawberry coming and lets out a long breath. 3–6s: Slowly he tips the flat brim of his hat down: \"I know people.\" 6–10s: He walks past Strawberry toward the street, husk leaves swinging; the camera pushes in on the brass badge as he goes. Voice for Corn: man in his fifties, sun-dried slow drawl, warm rasp, amused. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S10_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "CORN",
+     "line": "I know people."
+    }
+   ],
+   "checks": [
+    "Corn: must match: Husk is the coat, six chambers, flat-brim hat. Reject: Separate fabric coat, cowboy hat with a curled brim.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S11_h_image",
+   "type": "image",
+   "shot": "S11",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/broccoli.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A massive broccoli man, 1.8 scale, a wide thick pale-green stalk body (#6E9B3A) topped by a dense dark-green floret crown (#2F5A1E) trimmed flat like a flattop haircut, small deep-set eyes, no visible neck; wears a plain black crew-neck T-shirt stretched tight, a coiled clear earpiece in the side of his crown, white athletic tape wrapped across his enormous knuckles. He stands at the velvet rope outside an upscale Produce City nightclub at night, neon light, produce patrons waiting in line. Strawberry stands beside him, tiny by comparison. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S11_h.png",
+   "done": false
+  },
+  {
+   "job": "S11_h_video",
+   "type": "video",
+   "shot": "S11",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S11_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Broccoli stands at the velvet rope, arms folded. An unruly patron shoves forward. 3–6s: Broccoli lifts the patron out of frame with one arm, no effort at all, then slowly turns his head to Strawberry and cracks his taped knuckles. 6–10s: He holds Strawberry's gaze while the neon buzzes. The line of patrons quietly steps back. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S11_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [
+    "Broccoli: must match: Flat-top florets, blank black tee. Reject: Fluffy rounded crown, text on the shirt.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S12_h_image",
+   "type": "image",
+   "shot": "S12",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/chili.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A lean, curved red chili-pepper man, 1.15 scale, high-gloss fire-engine-red skin (#D7261E), a green stem curled over the top of his head like a combover, a huge bright salesman's grin, wide expressive eyebrows; wears a loud mustard-and-teal plaid sport coat whose inner lining is packed with gadgets (dangling key fobs, a road flare, a long grill lighter, a compact air horn, a folded miniature inflatable tube man), an open-collar cream shirt, a thin gold chain. He stands proudly in a questionable used-vehicle lot full of strange produce-world automobiles, string pennants overhead, bright lot lights against a darkening sky. Strawberry inspects a battered armored vegetable truck beside him. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S12_h.png",
+   "done": false
+  },
+  {
+   "job": "S12_h_video",
+   "type": "video",
+   "shot": "S12",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S12_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Chili walks Strawberry past rows of strange vehicles, talking fast, arms wide. 3–6s: He slaps the hood of the battered armored truck. A panel falls off. Strawberry stares at him. Chili: \"That ain't structural... mostly.\" 6–10s: The engine starts smoking. Chili keeps grinning and fans the smoke away with a sales brochure. Quick punch-in on Chili. Voice for Chili: man in his forties, bright fast tenor, salesman patter, you can hear the grin. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S12_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "CHILI",
+     "line": "That ain't structural... mostly."
+    }
+   ],
+   "checks": [
+    "Chili: must match: Mustard + teal plaid, combover curls right. Reject: Green chili, a different plaid.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S13_h_image",
+   "type": "image",
+   "shot": "S13",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/potato.png",
+    "refs/strawberry.png",
+    "refs/lemon.png",
+    "refs/broccoli.png"
+   ],
+   "prompt": "A lumpy russet potato man, 0.9 scale, dusty brown skin (#8A6A45) with small dark sprout-eyes dotted across his body and a little dirt in the creases, an enormous earnest grin, bright eager eyes; wears homemade battle armor: a dented steel colander as a helmet strapped under his chin, a scratched aluminum baking sheet tied on as a breastplate with kitchen twine, mismatched red (left) and blue (right) quilted oven-mitt gauntlets, a black headset microphone, and a gold satin sash across his chest. He stands heroically in the doorway of the root-cellar war room, backlit through smoke, plainly the least qualified warrior present. Inside, Strawberry, Lemon and Broccoli turn to look at him. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S13_h.png",
+   "done": false
+  },
+  {
+   "job": "S13_h_video",
+   "type": "video",
+   "shot": "S13",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S13_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: The war room in near silence; Strawberry, Lemon and Broccoli bent over the map. 3–6s: The door bursts open through smoke. Potato steps in and announces: \"I brought myself.\" 6–10s: Silence. Everyone stares. His enormous earnest grin does not move at all. Camera holds. Voice for Potato: man in his thirties, warm earnest mid voice, a little too loud, seminar projection. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S13_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "POTATO",
+     "line": "I brought myself."
+    }
+   ],
+   "checks": [
+    "Potato: must match: Mitts red left / blue right, colander, baking sheet. Reject: Mitts swapped or matching, a store-bought helmet.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles.",
+    "Lemon: must match: Muted pale yellow, cream cardigan, cat-eye glasses. Reject: Bright saturated yellow, cape, emblem, heroic pose: reject immediately.",
+    "Broccoli: must match: Flat-top florets, blank black tee. Reject: Fluffy rounded crown, text on the shirt."
+   ],
+   "done": false
+  },
+  {
+   "job": "S14_h_image",
+   "type": "image",
+   "shot": "S14",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/carrot.png",
+    "refs/carrots-truck.png"
+   ],
+   "prompt": "A tall lean carrot man, 1.4 scale, a tapered ridged orange body (#E8731C) with fine pale root hairs, a feathery green top tied back in a short ponytail, gaunt cheeks, mirrored aviator sunglasses; wears faded navy work coveralls with the sleeves rolled, a heavy steel tow chain looped over one shoulder. He is behind the wheel of A battered 1970s produce flatbed truck, faded rust-red paint, a dented hood, mud-caked wheel wells, a wooden slat bed, one cracked headlight. The truck drifts sideways through a Produce City street mid-battle, sparks off the rear bumper, smoke and debris. Low camera at wheel height. No gore. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S14_h.png",
+   "done": false
+  },
+  {
+   "job": "S14_h_video",
+   "type": "video",
+   "shot": "S14",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S14_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Low at wheel height, the flatbed tears down a burning street toward camera. 3–6s: Carrot yanks the wheel and the truck drifts sideways around the corner, sparks spraying. He shouts: \"REPOSSESSION!\" 6–10s: An explosion goes up safely behind him as he accelerates away, tow chain whipping. Voice for Carrot: man in his thirties, raspy nasal edge, street-tough, shouts well. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S14_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "CARROT",
+     "line": "REPOSSESSION!"
+    }
+   ],
+   "checks": [
+    "Carrot: must match: Mirrored aviators, navy coveralls. Reject: Normal glasses, an orange jumpsuit."
+   ],
+   "done": false
+  },
+  {
+   "job": "S16_h_image",
+   "type": "image",
+   "shot": "S16",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/grapes.png"
+   ],
+   "prompt": "A committee of seven grapes, each about 0.25 scale with tiny stick limbs: six deep-purple concord grapes (#4B1E4F) with dusty bloom, each wearing one tiny mismatched accessory (a red bow tie, a knit beanie, a lanyard, half-moon reading glasses, a whistle, an armband), and GERALD, a single pale green grape (#B5C96A) in a too-big tan cardigan with small round spectacles. All seven charge down a sloped street together in improvised battle gear, Gerald the green one a half step behind. The battlefield burns far behind them. Low-angle wide lens. They are arguing as they run. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S16_h.png",
+   "done": false
+  },
+  {
+   "job": "S16_h_video",
+   "type": "video",
+   "shot": "S16",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S16_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: The seven Grapes crest the top of a sloped street, battle gear rattling. 3–6s: They charge downhill and instantly disagree, shouting over each other: \"LEFT!\" \"RIGHT!\" \"SHUT UP, GERALD!\" They collide and bounce. 6–10s: They recover and keep running, still arguing, Gerald a half step behind. Handheld chase camera. Voice for Grapes: six small high voices, fast, overlapping, mixed male and female, all talking at once. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S16_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "GRAPES",
+     "line": "LEFT! RIGHT! SHUT UP, GERALD!"
+    }
+   ],
+   "checks": [
+    "Grapes: must match: 6 purple + 1 green (Gerald). Reject: All one color, wrong count."
+   ],
+   "done": false
+  },
+  {
+   "job": "S17_h_image",
+   "type": "image",
+   "shot": "S17",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/strawberry.png",
+    "refs/celery.png",
+    "refs/pineapples.png",
+    "refs/onions.png",
+    "refs/blueberries.png"
+   ],
+   "prompt": "Massive heroic wide shot at dawn before the gates of Produce City. A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He stands elevated at the front, seen from behind and slightly to the side. Nearby: Watermelon, Avocado, Corn, Broccoli, Chili, Banana, Lemon, Potato, Pumpkin and the Grapes. Beyond them, hundreds of produce warriors fill the distance: Towering 2.4-scale pale-green ribbed celery stalk warriors with leafy tops, carrying long wooden pikes. 1.6-scale pineapples whose natural scaled skin reads as armor, spiky green crowns like helmet crests, carrying round wooden shields. 0.9-scale golden papery-skinned onions with tears streaming from their eyes, loading crossbows with stoic determination. Tiny 0.15-scale dusty-blue blueberries with a five-point crown on top, red bandanas, carrying slingshots. Smoke, banners, sunrise. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S17_h.png",
+   "done": false
+  },
+  {
+   "job": "S17_h_video",
+   "type": "video",
+   "shot": "S17",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S17_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Behind Strawberry on the rampart, the camera begins to rise. 3–6s: The rising camera reveals hundreds upon hundreds of allies. Strawberry: \"Tomorrow they won't ask whether you're fruit... or vegetable.\" 6–10s: The crowd goes silent. Wind catches the banners. Keep rising to the full army at dawn. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S17_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Tomorrow they won't ask whether you're fruit... or vegetable."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S18_h_image",
+   "type": "image",
+   "shot": "S18",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/pork-tribe.png",
+    "refs/beef-tribe.png"
+   ],
+   "prompt": "Two Herd commanders standing side by side in smoke, framed from the chest up against hard orange battlefield backlight: Massive 4.5-scale boar-shaped warriors seen only as backlit silhouettes, heavy hunched heads, long curved yellowed tusks catching ember light, cured-leather lamellar armor laced with coarse butcher's twine, iron meat hooks and chains hanging from their belts, carrying tall iron brazier-standards trailing smoke, breath steaming in the cold. Colossal 6.5-scale bull-shaped warriors seen only as backlit silhouettes, enormous wide-spread horns capped with riveted steel, riveted steel plate armor over hide stamped with glowing ember-orange brand sigils, iron-shod hooves that crack the ground, breath steaming in the cold. Both are pure silhouettes, faces lost in black, only tusk and horn edges catching ember light. Their armies fill the blurred background. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S18_h.png",
+   "done": false
+  },
+  {
+   "job": "S18_h_video",
+   "type": "video",
+   "shot": "S18",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S18_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Smoke thins enough to show two silhouettes side by side against orange light. 3–6s: Slow push toward them. The Beef commander lowers his enormous horns a fraction. Steam pours from their breath. 6–10s: Smoke rolls across their armor; only tusk and horn edges catch ember light. Their faces stay in black. Massive bass impact at the end. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S18_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [
+    "Pork Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes.",
+    "Beef Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes."
+   ],
+   "done": false
+  },
+  {
+   "job": "S19_h_image",
+   "type": "image",
+   "shot": "S19",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/strawberry.png",
+    "refs/broccoli.png",
+    "refs/corn.png",
+    "refs/watermelon.png"
+   ],
+   "prompt": "A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He stands at the front of the united produce army on devastated farmland, facing the distant Herd. Broccoli, Corn and Watermelon flank him. He looks small against the armies and completely determined. Sunrise behind the produce army. Strawberry is half-lit: the left side of his face falls into shadow. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S19_h.png",
+   "done": false
+  },
+  {
+   "job": "S19_h_video",
+   "type": "video",
+   "shot": "S19",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S19_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Close on Strawberry's face, the army breathing behind him. 3–6s: He whispers: \"Stay angry.\" Then he charges, and Broccoli, Corn and Watermelon follow. 6–10s: The whole army erupts behind them. The camera races backward ahead of hundreds running at the lens. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S19_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Stay angry."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles.",
+    "Broccoli: must match: Flat-top florets, blank black tee. Reject: Fluffy rounded crown, text on the shirt.",
+    "Corn: must match: Husk is the coat, six chambers, flat-brim hat. Reject: Separate fabric coat, cowboy hat with a curled brim.",
+    "Watermelon: must match: Vertical stripes, funeral suit, yellow tape. Reject: Horizontal stripes, a cut/red flesh showing, a colored tie."
+   ],
+   "done": false
+  },
+  {
+   "job": "S20_h_image",
+   "type": "image",
+   "shot": "S20",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/pork-tribe.png",
+    "refs/beef-tribe.png"
+   ],
+   "prompt": "Ultra-wide battlefield at sunrise: the produce alliance charges from the left, the Herd charges from the right as backlit silhouettes, moments before they meet. Dust and banners, gigantic scale. No impact yet, no gore. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S20_h.png",
+   "done": false
+  },
+  {
+   "job": "S20_h_video",
+   "type": "video",
+   "shot": "S20",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S20_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Ultra-wide, both armies sprinting toward each other through dust and banners. 3–6s: The camera races sideways as the gap closes to a few strides. 6–10s: Keep racing alongside; the two front lines almost touch but never meet. Do not show any impact. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S20_h.mp4",
+   "trailer_window": [
+    3,
+    5
+   ],
+   "spoken": [],
+   "checks": [
+    "Pork Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes.",
+    "Beef Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes."
+   ],
+   "done": false
+  },
+  {
+   "job": "S21_h_image",
+   "type": "image",
+   "shot": "S21",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "Close-up hero portrait of A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. Battle-worn and dirty but unhurt, warm firelight behind him, embers in the air, shallow depth of field. Strawberry is fully lit for the first time. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S21_h.png",
+   "done": false
+  },
+  {
+   "job": "S21_h_video",
+   "type": "video",
+   "shot": "S21",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S21_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Very slow push in on Strawberry, embers drifting behind him. 3–5s: He looks straight into the lens and says calmly: \"Everybody has beef.\" 5–10s: He holds the look, completely still, while the embers keep drifting. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S21_h.mp4",
+   "trailer_window": [
+    3,
+    5
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Everybody has beef."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S22_h_image",
+   "type": "image",
+   "shot": "S22",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [],
+   "prompt": "Dark smoky background, red, orange, green and yellow light bleeding faintly through thick smoke, floating embers. The center is empty, kept clear for a title added later. Absolutely no generated text or letters. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S22_h.png",
+   "done": false
+  },
+  {
+   "job": "S22_h_video",
+   "type": "video",
+   "shot": "S22",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S22_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Drift through dark smoke as embers float toward the lens; a bass impact at the start. 3–7s: The smoke parts slightly in the center, leaving clean empty space. 7–10s: Hold on the empty center. No text. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S22_h.mp4",
+   "trailer_window": [
+    3,
+    5
+   ],
+   "spoken": [],
+   "checks": [],
+   "done": false
+  },
+  {
+   "job": "S23_h_image",
+   "type": "image",
+   "shot": "S23",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "inputs": [
+    "refs/grapes.png"
+   ],
+   "prompt": "Three members of A committee of seven grapes, each about 0.25 scale with tiny stick limbs: six deep-purple concord grapes (#4B1E4F) with dusty bloom, each wearing one tiny mismatched accessory (a red bow tie, a knit beanie, a lanyard, half-moon reading glasses, a whistle, an armband), and GERALD, a single pale green grape (#B5C96A) in a too-big tan cardigan with small round spectacles. Gerald the green grape in the middle, two purple grapes on either side, standing alone in smoky darkness under a soft spotlight. One purple grape looks irritated, the other exhausted. Gerald looks like he has a point. Horizontal 16:9 widescreen composition. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S23_h.png",
+   "done": false
+  },
+  {
+   "job": "S23_h_video",
+   "type": "video",
+   "shot": "S23",
+   "aspect": "16:9",
+   "size": [
+    1920,
+    1080
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S23_h.png"
+   ],
+   "prompt": "10-second shot, 16:9 horizontal. Animate from the provided start image. 0–3s: Three Grapes in a spotlight, an awkward silence. 3–6s: Gerald says quietly: \"Technically... we don't.\" The irritated purple grape snaps his head toward him. 6–10s: The third grape shakes his head slowly. Gerald adjusts his spectacles. Voice for Gerald: small high nasal male voice, earnest, pedantic, soft. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S23_h.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "GERALD",
+     "line": "Technically... we don't."
+    }
+   ],
+   "checks": [
+    "Grapes: must match: 6 purple + 1 green (Gerald). Reject: All one color, wrong count."
+   ],
+   "done": false
+  },
+  {
+   "job": "S01_v_image",
+   "type": "image",
+   "shot": "S01",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [],
+   "prompt": "Complete darkness except for the faintest smoky reddish glow near the bottom of frame. Fine dust particles suspended in the dark. No characters visible. Deep blacks, volumetric haze, ominous. Vertical 9:16: a tall column of darkness, the faint red glow low in frame, dust hanging in the upper two-thirds. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S01_v.png",
+   "done": false
+  },
+  {
+   "job": "S01_v_video",
+   "type": "video",
+   "shot": "S01",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S01_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Total darkness, a faint red glow at the bottom edge, dust hanging still. 3–6s: Very slow push forward through drifting smoke. THUD... THUD... THUD: three enormous distant impacts; the dust jumps with each one, and the third is strongest. 6–10s: The glow pulses once and dims. Silence. Nothing is revealed. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S01_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [],
+   "done": false
+  },
+  {
+   "job": "S02_v_image",
+   "type": "image",
+   "shot": "S02",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "Extreme macro close-up of A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. Only his left eye and the skin around it fill the frame, the small pale pit-scar of the missing seed just above the eye. Fine dirt and battlefield dust on the skin. Hard red-orange rim light, deep shadow. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S02_v.png",
+   "done": false
+  },
+  {
+   "job": "S02_v_video",
+   "type": "video",
+   "shot": "S02",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S02_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Extreme close-up, the eye closed, ash drifting through a thin blade of light. A distant rumble begins. 3–6s: The eye opens slowly, cold and alert, the pupil snapping to something off-camera. He whispers: \"They're coming.\" 6–10s: Hold on the eye. Each distant thud makes the frame shiver; the eye does not blink. Very slow push-in throughout. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S02_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "They're coming."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S03_v_image",
+   "type": "image",
+   "shot": "S03",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [],
+   "prompt": "Enormous establishing shot of a produce civilization at night: an old produce market grown into dense urban neighborhoods, giant greenhouse architecture, orchards woven through the streets, irrigation canals, lantern-lit stalls and towering organic structures. Tiny produce citizens move through the streets far below. Moon-blue light, warm amber windows, distant mountains and farmland. Huge scale, atmospheric haze. Vertical 9:16: a tall view down through layered rooftops, hanging lanterns and greenhouse spires to a canal street far below, the dark horizon in the top third. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S03_v.png",
+   "done": false
+  },
+  {
+   "job": "S03_v_video",
+   "type": "video",
+   "shot": "S03",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S03_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: High above Produce City at night, gliding forward; lights and tiny citizens below, everything peaceful. 3–6s: Descend toward the rooftops. Birds burst out of the far fields and a tremor runs through the city: hanging signs sway, canal water ripples. 6–10s: Keep descending to a street corner where citizens stop and turn toward the dark horizon. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S03_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [],
+   "done": false
+  },
+  {
+   "job": "S04_v_image",
+   "type": "image",
+   "shot": "S04",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/pork-tribe.png",
+    "refs/beef-tribe.png"
+   ],
+   "prompt": "Epic ultra-wide shot at night. Beyond dark farmland the Herd emerges through thick smoke against hard orange backlight: Massive 4.5-scale boar-shaped warriors seen only as backlit silhouettes, heavy hunched heads, long curved yellowed tusks catching ember light, cured-leather lamellar armor laced with coarse butcher's twine, iron meat hooks and chains hanging from their belts, carrying tall iron brazier-standards trailing smoke, breath steaming in the cold. Colossal 6.5-scale bull-shaped warriors seen only as backlit silhouettes, enormous wide-spread horns capped with riveted steel, riveted steel plate armor over hide stamped with glowing ember-orange brand sigils, iron-shod hooves that crack the ground, breath steaming in the cold. Banners, crude iron war machines, hundreds of distant soldiers. Every figure is a backlit silhouette; no face, eye or mouth is readable. Dust rises behind thousands of marching feet. Imposing and organized. Vertical 9:16: low angle, one towering Beef silhouette fills the frame from the ground to the top edge, the marching army visible between its legs. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S04_v.png",
+   "done": false
+  },
+  {
+   "job": "S04_v_video",
+   "type": "video",
+   "shot": "S04",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S04_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Smoke and orange backlight over dark farmland; only shapes. 3–6s: The Herd emerges, silhouettes advancing in heavy synchronized steps that shake the ground; banners whip. 6–10s: One colossal Beef silhouette looms out of the smoke, horn edges catching ember light, then sinks back. The camera pulls back slowly the whole time. Faces stay black. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S04_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [
+    "Pork Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes.",
+    "Beef Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes."
+   ],
+   "done": false
+  },
+  {
+   "job": "S05_v_image",
+   "type": "image",
+   "shot": "S05",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He sits in his pirate-radio livestream studio inside a root cellar: earthen walls, a cluttered desk with a vintage microphone, three mismatched monitors, maps, photographs, a red-string evidence board and hand-drawn diagrams of troop movements beyond the pasture. Homemade but obsessive. A bare tungsten bulb and monitor glow, deep shadow. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S05_v.png",
+   "done": false
+  },
+  {
+   "job": "S05_v_video",
+   "type": "video",
+   "shot": "S05",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S05_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Strawberry jabs a finger at the map on his evidence board. 3–6s: He swings back to the livestream monitor, reads the viewer count and freezes. Flat, insulted disbelief: \"Three viewers?\" 6–10s: A distant THUD swings the bare bulb above him. The light rocks across his face. He slowly looks up at the ceiling. Camera nearly still. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S05_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Three viewers?"
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S07_v_image",
+   "type": "image",
+   "shot": "S07",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He stands at the head of a battered table in the root cellar, now an emergency war room. A large hand-drawn map of Produce Territory covers the table. Empty chairs all around. He points hard at a circled location. Single overhead bulb, red warning glow, deep shadows. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S07_v.png",
+   "done": false
+  },
+  {
+   "job": "S07_v_video",
+   "type": "video",
+   "shot": "S07",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S07_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Strawberry rolls the map across the table with one hard push; the camera tracks the map. 3–6s: Tilt up to his face, both hands planted on the table: \"Stop arguing. Start surviving.\" 6–10s: Hold on him. Dust sifts from the ceiling. He does not move. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S07_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Stop arguing. Start surviving."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S08_v_image",
+   "type": "image",
+   "shot": "S08",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/watermelon.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A tall, heavy watermelon-bodied man, 1.6 scale, oval, deep green rind (#1F4D2B) with pale lime stripes running vertically, heavy-lidded patient eyes, a faint grey frost on the rind at the temples; wears a black three-piece funeral suit, crisp white shirt, black tie with a silver tie bar, long black leather gloves, a silver pocket-watch chain across the vest, a yellow cloth tailor's measuring tape draped around his neck. He stands inside an elegant produce funeral home beside a closed casket sized for produce, back half-turned to the doorway. Strawberry waits small in the doorway behind him, out of focus. Moody warm lamplight. Dark comedy played completely straight. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S08_v.png",
+   "done": false
+  },
+  {
+   "job": "S08_v_video",
+   "type": "video",
+   "shot": "S08",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S08_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Watermelon stands beside the casket, back half-turned, and begins to pull off one long black glove. 3–6s: Finger by finger the glove comes off. Without turning around he says: \"Everybody ends up here.\" 6–10s: Unhurried, he turns his head toward the doorway where Strawberry waits and gives one slow blink. Slow push-in throughout. Voice for Watermelon: man in his sixties, deep velvet bass, very slow, soft and patient, long pauses. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S08_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "WATERMELON",
+     "line": "Everybody ends up here."
+    }
+   ],
+   "checks": [
+    "Watermelon: must match: Vertical stripes, funeral suit, yellow tape. Reject: Horizontal stripes, a cut/red flesh showing, a colored tie.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S09_v_image",
+   "type": "image",
+   "shot": "S09",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/avocado.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "An avocado-bodied man, 1.1 scale, pear-shaped, pebbled matte near-black green Hass skin (#2E3B1F), sharp narrow eyes behind thin gold rimless reading glasses; wears a tailored charcoal pinstripe suit, burgundy silk tie, small gold cufflinks shaped like scales of justice, and carries a brushed-steel hard-shell briefcase. He walks briskly down wide stone courthouse steps in Produce City, reading paperwork. Strawberry waits at the bottom of the steps. Late afternoon light, long shadows. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S09_v.png",
+   "done": false
+  },
+  {
+   "job": "S09_v_video",
+   "type": "video",
+   "shot": "S09",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S09_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Avocado comes down the courthouse steps reading paperwork, never slowing; the camera tracks backward with him. 3–6s: Strawberry steps into his path: \"I need a war lawyer.\" 6–10s: Avocado stops dead, looks at Strawberry over his gold glasses, then slowly closes the folder. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S09_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "I need a war lawyer."
+    }
+   ],
+   "checks": [
+    "Avocado: must match: Matte pebbled dark skin, gold rimless glasses. Reject: Bright smooth green skin, a halved avocado with the pit showing.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S10_v_image",
+   "type": "image",
+   "shot": "S10",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/corn.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A tall corn-cob man, 1.7 scale, rows of glossy butter-yellow kernels (#F2C230), his own long green husk leaves falling open around him like a duster coat, pale gold corn silk hanging to his shoulders like long hair, a flat-brim dark brown felt hat, squinting eyes, a brass bail-bonds badge clipped to his belt, carrying a heavy blackened-steel six-chamber revolver-style launcher whose cylinder is loaded with hard dried kernels. He stands outside a gritty bail-bonds storefront in Produce City at sunset, hand still on the door he just locked. Strawberry approaches from frame left. Western framing, low warm sun, dust in the air. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S10_v.png",
+   "done": false
+  },
+  {
+   "job": "S10_v_video",
+   "type": "video",
+   "shot": "S10",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S10_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Corn locks the bail-bonds door and turns, sees Strawberry coming and lets out a long breath. 3–6s: Slowly he tips the flat brim of his hat down: \"I know people.\" 6–10s: He walks past Strawberry toward the street, husk leaves swinging; the camera pushes in on the brass badge as he goes. Voice for Corn: man in his fifties, sun-dried slow drawl, warm rasp, amused. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S10_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "CORN",
+     "line": "I know people."
+    }
+   ],
+   "checks": [
+    "Corn: must match: Husk is the coat, six chambers, flat-brim hat. Reject: Separate fabric coat, cowboy hat with a curled brim.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S11_v_image",
+   "type": "image",
+   "shot": "S11",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/broccoli.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A massive broccoli man, 1.8 scale, a wide thick pale-green stalk body (#6E9B3A) topped by a dense dark-green floret crown (#2F5A1E) trimmed flat like a flattop haircut, small deep-set eyes, no visible neck; wears a plain black crew-neck T-shirt stretched tight, a coiled clear earpiece in the side of his crown, white athletic tape wrapped across his enormous knuckles. He stands at the velvet rope outside an upscale Produce City nightclub at night, neon light, produce patrons waiting in line. Strawberry stands beside him, tiny by comparison. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S11_v.png",
+   "done": false
+  },
+  {
+   "job": "S11_v_video",
+   "type": "video",
+   "shot": "S11",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S11_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Broccoli stands at the velvet rope, arms folded. An unruly patron shoves forward. 3–6s: Broccoli lifts the patron out of frame with one arm, no effort at all, then slowly turns his head to Strawberry and cracks his taped knuckles. 6–10s: He holds Strawberry's gaze while the neon buzzes. The line of patrons quietly steps back. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S11_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [
+    "Broccoli: must match: Flat-top florets, blank black tee. Reject: Fluffy rounded crown, text on the shirt.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S12_v_image",
+   "type": "image",
+   "shot": "S12",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/chili.png",
+    "refs/strawberry.png"
+   ],
+   "prompt": "A lean, curved red chili-pepper man, 1.15 scale, high-gloss fire-engine-red skin (#D7261E), a green stem curled over the top of his head like a combover, a huge bright salesman's grin, wide expressive eyebrows; wears a loud mustard-and-teal plaid sport coat whose inner lining is packed with gadgets (dangling key fobs, a road flare, a long grill lighter, a compact air horn, a folded miniature inflatable tube man), an open-collar cream shirt, a thin gold chain. He stands proudly in a questionable used-vehicle lot full of strange produce-world automobiles, string pennants overhead, bright lot lights against a darkening sky. Strawberry inspects a battered armored vegetable truck beside him. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S12_v.png",
+   "done": false
+  },
+  {
+   "job": "S12_v_video",
+   "type": "video",
+   "shot": "S12",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S12_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Chili walks Strawberry past rows of strange vehicles, talking fast, arms wide. 3–6s: He slaps the hood of the battered armored truck. A panel falls off. Strawberry stares at him. Chili: \"That ain't structural... mostly.\" 6–10s: The engine starts smoking. Chili keeps grinning and fans the smoke away with a sales brochure. Quick punch-in on Chili. Voice for Chili: man in his forties, bright fast tenor, salesman patter, you can hear the grin. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S12_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "CHILI",
+     "line": "That ain't structural... mostly."
+    }
+   ],
+   "checks": [
+    "Chili: must match: Mustard + teal plaid, combover curls right. Reject: Green chili, a different plaid.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S13_v_image",
+   "type": "image",
+   "shot": "S13",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/potato.png",
+    "refs/strawberry.png",
+    "refs/lemon.png",
+    "refs/broccoli.png"
+   ],
+   "prompt": "A lumpy russet potato man, 0.9 scale, dusty brown skin (#8A6A45) with small dark sprout-eyes dotted across his body and a little dirt in the creases, an enormous earnest grin, bright eager eyes; wears homemade battle armor: a dented steel colander as a helmet strapped under his chin, a scratched aluminum baking sheet tied on as a breastplate with kitchen twine, mismatched red (left) and blue (right) quilted oven-mitt gauntlets, a black headset microphone, and a gold satin sash across his chest. He stands heroically in the doorway of the root-cellar war room, backlit through smoke, plainly the least qualified warrior present. Inside, Strawberry, Lemon and Broccoli turn to look at him. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S13_v.png",
+   "done": false
+  },
+  {
+   "job": "S13_v_video",
+   "type": "video",
+   "shot": "S13",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S13_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: The war room in near silence; Strawberry, Lemon and Broccoli bent over the map. 3–6s: The door bursts open through smoke. Potato steps in and announces: \"I brought myself.\" 6–10s: Silence. Everyone stares. His enormous earnest grin does not move at all. Camera holds. Voice for Potato: man in his thirties, warm earnest mid voice, a little too loud, seminar projection. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S13_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "POTATO",
+     "line": "I brought myself."
+    }
+   ],
+   "checks": [
+    "Potato: must match: Mitts red left / blue right, colander, baking sheet. Reject: Mitts swapped or matching, a store-bought helmet.",
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles.",
+    "Lemon: must match: Muted pale yellow, cream cardigan, cat-eye glasses. Reject: Bright saturated yellow, cape, emblem, heroic pose: reject immediately.",
+    "Broccoli: must match: Flat-top florets, blank black tee. Reject: Fluffy rounded crown, text on the shirt."
+   ],
+   "done": false
+  },
+  {
+   "job": "S14_v_image",
+   "type": "image",
+   "shot": "S14",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/carrot.png",
+    "refs/carrots-truck.png"
+   ],
+   "prompt": "A tall lean carrot man, 1.4 scale, a tapered ridged orange body (#E8731C) with fine pale root hairs, a feathery green top tied back in a short ponytail, gaunt cheeks, mirrored aviator sunglasses; wears faded navy work coveralls with the sleeves rolled, a heavy steel tow chain looped over one shoulder. He is behind the wheel of A battered 1970s produce flatbed truck, faded rust-red paint, a dented hood, mud-caked wheel wells, a wooden slat bed, one cracked headlight. The truck drifts sideways through a Produce City street mid-battle, sparks off the rear bumper, smoke and debris. Low camera at wheel height. No gore. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S14_v.png",
+   "done": false
+  },
+  {
+   "job": "S14_v_video",
+   "type": "video",
+   "shot": "S14",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S14_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Low at wheel height, the flatbed tears down a burning street toward camera. 3–6s: Carrot yanks the wheel and the truck drifts sideways around the corner, sparks spraying. He shouts: \"REPOSSESSION!\" 6–10s: An explosion goes up safely behind him as he accelerates away, tow chain whipping. Voice for Carrot: man in his thirties, raspy nasal edge, street-tough, shouts well. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S14_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "CARROT",
+     "line": "REPOSSESSION!"
+    }
+   ],
+   "checks": [
+    "Carrot: must match: Mirrored aviators, navy coveralls. Reject: Normal glasses, an orange jumpsuit."
+   ],
+   "done": false
+  },
+  {
+   "job": "S16_v_image",
+   "type": "image",
+   "shot": "S16",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/grapes.png"
+   ],
+   "prompt": "A committee of seven grapes, each about 0.25 scale with tiny stick limbs: six deep-purple concord grapes (#4B1E4F) with dusty bloom, each wearing one tiny mismatched accessory (a red bow tie, a knit beanie, a lanyard, half-moon reading glasses, a whistle, an armband), and GERALD, a single pale green grape (#B5C96A) in a too-big tan cardigan with small round spectacles. All seven charge down a sloped street together in improvised battle gear, Gerald the green one a half step behind. The battlefield burns far behind them. Low-angle wide lens. They are arguing as they run. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S16_v.png",
+   "done": false
+  },
+  {
+   "job": "S16_v_video",
+   "type": "video",
+   "shot": "S16",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S16_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: The seven Grapes crest the top of a sloped street, battle gear rattling. 3–6s: They charge downhill and instantly disagree, shouting over each other: \"LEFT!\" \"RIGHT!\" \"SHUT UP, GERALD!\" They collide and bounce. 6–10s: They recover and keep running, still arguing, Gerald a half step behind. Handheld chase camera. Voice for Grapes: six small high voices, fast, overlapping, mixed male and female, all talking at once. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S16_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "GRAPES",
+     "line": "LEFT! RIGHT! SHUT UP, GERALD!"
+    }
+   ],
+   "checks": [
+    "Grapes: must match: 6 purple + 1 green (Gerald). Reject: All one color, wrong count."
+   ],
+   "done": false
+  },
+  {
+   "job": "S17_v_image",
+   "type": "image",
+   "shot": "S17",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/strawberry.png",
+    "refs/celery.png",
+    "refs/pineapples.png",
+    "refs/onions.png",
+    "refs/blueberries.png"
+   ],
+   "prompt": "Massive heroic wide shot at dawn before the gates of Produce City. A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He stands elevated at the front, seen from behind and slightly to the side. Nearby: Watermelon, Avocado, Corn, Broccoli, Chili, Banana, Lemon, Potato, Pumpkin and the Grapes. Beyond them, hundreds of produce warriors fill the distance: Towering 2.4-scale pale-green ribbed celery stalk warriors with leafy tops, carrying long wooden pikes. 1.6-scale pineapples whose natural scaled skin reads as armor, spiky green crowns like helmet crests, carrying round wooden shields. 0.9-scale golden papery-skinned onions with tears streaming from their eyes, loading crossbows with stoic determination. Tiny 0.15-scale dusty-blue blueberries with a five-point crown on top, red bandanas, carrying slingshots. Smoke, banners, sunrise. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16: Strawberry small at the bottom of frame on the rampart, the army rising up the frame in layers toward the sunrise. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S17_v.png",
+   "done": false
+  },
+  {
+   "job": "S17_v_video",
+   "type": "video",
+   "shot": "S17",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S17_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Behind Strawberry on the rampart, the camera begins to rise. 3–6s: The rising camera reveals hundreds upon hundreds of allies. Strawberry: \"Tomorrow they won't ask whether you're fruit... or vegetable.\" 6–10s: The crowd goes silent. Wind catches the banners. Keep rising to the full army at dawn. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S17_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Tomorrow they won't ask whether you're fruit... or vegetable."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S18_v_image",
+   "type": "image",
+   "shot": "S18",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/pork-tribe.png",
+    "refs/beef-tribe.png"
+   ],
+   "prompt": "Two Herd commanders standing side by side in smoke, framed from the chest up against hard orange battlefield backlight: Massive 4.5-scale boar-shaped warriors seen only as backlit silhouettes, heavy hunched heads, long curved yellowed tusks catching ember light, cured-leather lamellar armor laced with coarse butcher's twine, iron meat hooks and chains hanging from their belts, carrying tall iron brazier-standards trailing smoke, breath steaming in the cold. Colossal 6.5-scale bull-shaped warriors seen only as backlit silhouettes, enormous wide-spread horns capped with riveted steel, riveted steel plate armor over hide stamped with glowing ember-orange brand sigils, iron-shod hooves that crack the ground, breath steaming in the cold. Both are pure silhouettes, faces lost in black, only tusk and horn edges catching ember light. Their armies fill the blurred background. Vertical 9:16: the Beef commander's horned silhouette fills the frame top to bottom, the Pork commander's tusked silhouette overlapping lower in front. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S18_v.png",
+   "done": false
+  },
+  {
+   "job": "S18_v_video",
+   "type": "video",
+   "shot": "S18",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S18_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Smoke thins enough to show two silhouettes side by side against orange light. 3–6s: Slow push toward them. The Beef commander lowers his enormous horns a fraction. Steam pours from their breath. 6–10s: Smoke rolls across their armor; only tusk and horn edges catch ember light. Their faces stay in black. Massive bass impact at the end. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S18_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [],
+   "checks": [
+    "Pork Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes.",
+    "Beef Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes."
+   ],
+   "done": false
+  },
+  {
+   "job": "S19_v_image",
+   "type": "image",
+   "shot": "S19",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/strawberry.png",
+    "refs/broccoli.png",
+    "refs/corn.png",
+    "refs/watermelon.png"
+   ],
+   "prompt": "A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. He stands at the front of the united produce army on devastated farmland, facing the distant Herd. Broccoli, Corn and Watermelon flank him. He looks small against the armies and completely determined. Sunrise behind the produce army. Strawberry is half-lit: the left side of his face falls into shadow. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S19_v.png",
+   "done": false
+  },
+  {
+   "job": "S19_v_video",
+   "type": "video",
+   "shot": "S19",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S19_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Close on Strawberry's face, the army breathing behind him. 3–6s: He whispers: \"Stay angry.\" Then he charges, and Broccoli, Corn and Watermelon follow. 6–10s: The whole army erupts behind them. The camera races backward ahead of hundreds running at the lens. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S19_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Stay angry."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles.",
+    "Broccoli: must match: Flat-top florets, blank black tee. Reject: Fluffy rounded crown, text on the shirt.",
+    "Corn: must match: Husk is the coat, six chambers, flat-brim hat. Reject: Separate fabric coat, cowboy hat with a curled brim.",
+    "Watermelon: must match: Vertical stripes, funeral suit, yellow tape. Reject: Horizontal stripes, a cut/red flesh showing, a colored tie."
+   ],
+   "done": false
+  },
+  {
+   "job": "S20_v_image",
+   "type": "image",
+   "shot": "S20",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/pork-tribe.png",
+    "refs/beef-tribe.png"
+   ],
+   "prompt": "Ultra-wide battlefield at sunrise: the produce alliance charges from the left, the Herd charges from the right as backlit silhouettes, moments before they meet. Dust and banners, gigantic scale. No impact yet, no gore. Vertical 9:16: the produce front line charging up from the bottom of frame, the Herd's silhouettes charging down from the top, the gap between them in the middle. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S20_v.png",
+   "done": false
+  },
+  {
+   "job": "S20_v_video",
+   "type": "video",
+   "shot": "S20",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S20_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Ultra-wide, both armies sprinting toward each other through dust and banners. 3–6s: The camera races sideways as the gap closes to a few strides. 6–10s: Keep racing alongside; the two front lines almost touch but never meet. Do not show any impact. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S20_v.mp4",
+   "trailer_window": [
+    3,
+    5
+   ],
+   "spoken": [],
+   "checks": [
+    "Pork Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes.",
+    "Beef Tribe: must match: Backlit only, faces in black. Reject: Any readable face or eyes."
+   ],
+   "done": false
+  },
+  {
+   "job": "S21_v_image",
+   "type": "image",
+   "shot": "S21",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/strawberry.png"
+   ],
+   "prompt": "Close-up hero portrait of A strawberry-bodied man, 1.0 scale, deep crimson glossy skin (#B3122E) studded with small golden seeds, one seed missing just above his left eye leaving a small pale pit-scar, a spiky green leaf calyx on top worn like a cropped crown, intense amber eyes under heavy sculpted brows; wears a worn olive-drab field jacket (#5B5A3A) with hand-sewn patches, a canvas bandolier holding a spool of red string and rows of pushpins, a small vintage silver clip-on microphone on the left collar, black fingerless wool gloves, dark charcoal cargo pants, scuffed brown lace-up boots. Battle-worn and dirty but unhurt, warm firelight behind him, embers in the air, shallow depth of field. Strawberry is fully lit for the first time. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S21_v.png",
+   "done": false
+  },
+  {
+   "job": "S21_v_video",
+   "type": "video",
+   "shot": "S21",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S21_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Very slow push in on Strawberry, embers drifting behind him. 3–5s: He looks straight into the lens and says calmly: \"Everybody has beef.\" 5–10s: He holds the look, completely still, while the embers keep drifting. Voice for Strawberry: man in his late thirties, low dry baritone, quiet and clipped, late-night-radio closeness, authority without volume. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S21_v.mp4",
+   "trailer_window": [
+    3,
+    5
+   ],
+   "spoken": [
+    {
+     "who": "STRAWBERRY",
+     "line": "Everybody has beef."
+    }
+   ],
+   "checks": [
+    "Strawberry: must match: Missing seed above LEFT eye. Olive jacket. Mic on left collar. Fingerless gloves. Reject: Seed scar moves sides, jacket goes green or brown, gloves go full-fingered, he smiles."
+   ],
+   "done": false
+  },
+  {
+   "job": "S22_v_image",
+   "type": "image",
+   "shot": "S22",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [],
+   "prompt": "Dark smoky background, red, orange, green and yellow light bleeding faintly through thick smoke, floating embers. The center is empty, kept clear for a title added later. Absolutely no generated text or letters. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S22_v.png",
+   "done": false
+  },
+  {
+   "job": "S22_v_video",
+   "type": "video",
+   "shot": "S22",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S22_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Drift through dark smoke as embers float toward the lens; a bass impact at the start. 3–7s: The smoke parts slightly in the center, leaving clean empty space. 7–10s: Hold on the empty center. No text. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S22_v.mp4",
+   "trailer_window": [
+    3,
+    5
+   ],
+   "spoken": [],
+   "checks": [],
+   "done": false
+  },
+  {
+   "job": "S23_v_image",
+   "type": "image",
+   "shot": "S23",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "inputs": [
+    "refs/grapes.png"
+   ],
+   "prompt": "Three members of A committee of seven grapes, each about 0.25 scale with tiny stick limbs: six deep-purple concord grapes (#4B1E4F) with dusty bloom, each wearing one tiny mismatched accessory (a red bow tie, a knit beanie, a lanyard, half-moon reading glasses, a whistle, an armband), and GERALD, a single pale green grape (#B5C96A) in a too-big tan cardigan with small round spectacles. Gerald the green grape in the middle, two purple grapes on either side, standing alone in smoky darkness under a soft spotlight. One purple grape looks irritated, the other exhausted. Gerald looks like he has a point. Vertical 9:16 composition of the same moment, recomposed tall rather than cropped. Keep the main subject in the middle third with clear headroom, and nothing important in the bottom fifth of the frame. Premium stylized 3D animated feature film still, original character design, anthropomorphic produce characters with photoreal macro food textures (real seed pits, pebbled skins, wax bloom, moisture), faces sculpted into the skin, slender plant-stem limbs, four-fingered hands, believable tailored cloth, cinematic lighting, anamorphic lens, shallow depth of field, volumetric atmosphere, fine 35mm film grain. Serious, dramatic tone. No humans, no text, no logos, no watermark.",
+   "output": "keyframes/S23_v.png",
+   "done": false
+  },
+  {
+   "job": "S23_v_video",
+   "type": "video",
+   "shot": "S23",
+   "aspect": "9:16",
+   "size": [
+    1080,
+    1920
+   ],
+   "seconds": 10,
+   "inputs": [
+    "keyframes/S23_v.png"
+   ],
+   "prompt": "10-second shot, 9:16 vertical. Animate from the provided start image. 0–3s: Three Grapes in a spotlight, an awkward silence. 3–6s: Gerald says quietly: \"Technically... we don't.\" The irritated purple grape snaps his head toward him. 6–10s: The third grape shakes his head slowly. Gerald adjusts his spectacles. Voice for Gerald: small high nasal male voice, earnest, pedantic, soft. Keep every character's face, proportions, colors, wardrobe and props exactly as they are in the start image. Do not redesign anyone. No on-screen text, captions or subtitles.",
+   "output": "clips/S23_v.mp4",
+   "trailer_window": [
+    3,
+    6
+   ],
+   "spoken": [
+    {
+     "who": "GERALD",
+     "line": "Technically... we don't."
+    }
+   ],
+   "checks": [
+    "Grapes: must match: 6 purple + 1 green (Gerald). Reject: All one color, wrong count."
+   ],
+   "done": false
+  },
+  {
+   "job": "VOICE_S02_STRAWBERRY",
+   "type": "voice",
+   "shot": "S02",
+   "who": "STRAWBERRY",
+   "mode": "camera",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "They're coming.",
+   "output": "audio/S02_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S05_STRAWBERRY",
+   "type": "voice",
+   "shot": "S05",
+   "who": "STRAWBERRY",
+   "mode": "camera",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "Three viewers?",
+   "output": "audio/S05_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S07_STRAWBERRY",
+   "type": "voice",
+   "shot": "S07",
+   "who": "STRAWBERRY",
+   "mode": "camera",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "Stop arguing. Start surviving.",
+   "output": "audio/S07_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S08_WATERMELON",
+   "type": "voice",
+   "shot": "S08",
+   "who": "WATERMELON",
+   "mode": "camera",
+   "voice": "Male, sixties. The deepest voice in the cast: a soft, velvety bass. Funeral-director calm. Very slow, with long, comfortable pauses between phrases. Never raises his voice. Every word sounds measured for a suit.",
+   "line": "Everybody ends up here.",
+   "output": "audio/S08_WATERMELON.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S08_STRAWBERRY",
+   "type": "voice",
+   "shot": "S08",
+   "who": "STRAWBERRY",
+   "mode": "vo",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "Not tomorrow.",
+   "output": "audio/S08_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S09_STRAWBERRY",
+   "type": "voice",
+   "shot": "S09",
+   "who": "STRAWBERRY",
+   "mode": "camera",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "I need a war lawyer.",
+   "output": "audio/S09_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S10_STRAWBERRY",
+   "type": "voice",
+   "shot": "S10",
+   "who": "STRAWBERRY",
+   "mode": "vo",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "I need people.",
+   "output": "audio/S10_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S10_CORN",
+   "type": "voice",
+   "shot": "S10",
+   "who": "CORN",
+   "mode": "camera",
+   "voice": "Male, fifties. Weathered baritone with a warm rasp and a slow Southwestern drawl. Unhurried and amused, like he's seen every kind of trouble twice. Lets words land, then waits.",
+   "line": "I know people.",
+   "output": "audio/S10_CORN.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S11_STRAWBERRY",
+   "type": "voice",
+   "shot": "S11",
+   "who": "STRAWBERRY",
+   "mode": "vo",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "How do you feel about Beef?",
+   "output": "audio/S11_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S12_CHILI",
+   "type": "voice",
+   "shot": "S12",
+   "who": "CHILI",
+   "mode": "camera",
+   "voice": "Male, forties. Bright, high-energy tenor with fast car-lot patter and a sing-song upsell rhythm. You can hear the grin in every line. Never pauses long enough to be interrupted. Optimistic past the point of honesty.",
+   "line": "That ain't structural... mostly.",
+   "output": "audio/S12_CHILI.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S13_POTATO",
+   "type": "voice",
+   "shot": "S13",
+   "who": "POTATO",
+   "mode": "camera",
+   "voice": "Male, thirties. Warm, earnest mid-range voice that projects like a motivational seminar, a little too loud for the room. Pitch rises with excitement. Completely sincere; there is no irony in him at all.",
+   "line": "I brought myself.",
+   "output": "audio/S13_POTATO.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S13_LEMON",
+   "type": "voice",
+   "shot": "S13",
+   "who": "LEMON",
+   "mode": "vo",
+   "voice": "Female, forties. Cool, dry alto. Measured, therapist-calm, perfectly deadpan. Speaks slightly slower than the room, with a small exhale before the sharpest lines. Never laughs at her own jokes.",
+   "line": "That was our concern.",
+   "output": "audio/S13_LEMON.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S14_CARROT",
+   "type": "voice",
+   "shot": "S14",
+   "who": "CARROT",
+   "mode": "camera",
+   "voice": "Male, thirties. Raspy voice with a nasal edge and a street-tough cadence. Talks out of the side of his mouth. When he shouts, it cracks and carries.",
+   "line": "REPOSSESSION!",
+   "output": "audio/S14_CARROT.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S16_GRAPES",
+   "type": "voice",
+   "shot": "S16",
+   "who": "GRAPES",
+   "mode": "walla",
+   "voice": "Six small, high, fast voices, mixed male and female, each with its own texture: one squeaky, one hoarse, one bossy, one whiny, one mumbling, one sing-song. They overlap constantly. Pitched up and fast; never in unison.",
+   "line": "LEFT! RIGHT! SHUT UP, GERALD!",
+   "output": "audio/S16_GRAPES.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S17_STRAWBERRY",
+   "type": "voice",
+   "shot": "S17",
+   "who": "STRAWBERRY",
+   "mode": "camera",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "Tomorrow they won't ask whether you're fruit... or vegetable.",
+   "output": "audio/S17_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S18_STRAWBERRY",
+   "type": "voice",
+   "shot": "S18",
+   "who": "STRAWBERRY",
+   "mode": "vo",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "They'll just ask... how you want to be cooked.",
+   "output": "audio/S18_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S19_STRAWBERRY",
+   "type": "voice",
+   "shot": "S19",
+   "who": "STRAWBERRY",
+   "mode": "camera",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "Stay angry.",
+   "output": "audio/S19_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S21_STRAWBERRY",
+   "type": "voice",
+   "shot": "S21",
+   "who": "STRAWBERRY",
+   "mode": "camera",
+   "voice": "Male, late thirties. Low baritone with a dry, slightly gravelled edge from too many nights awake. Speaks quietly and close to the mic, like a pirate-radio host at 3 a.m. Clipped consonants, short sentences, no wasted breath. Never shouts; when he is sure, he gets quieter. Pace: measured, speeding up only when he is proven right. Never warm, never jokey.",
+   "line": "Everybody has beef.",
+   "output": "audio/S21_STRAWBERRY.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S23_GERALD",
+   "type": "voice",
+   "shot": "S23",
+   "who": "GERALD",
+   "mode": "camera",
+   "voice": "Male, small. High, soft, slightly nasal voice. Earnest and pedantic, the kid who corrects the teacher and is right. Quiet, careful, a little hurt.",
+   "line": "Technically... we don't.",
+   "output": "audio/S23_GERALD.wav",
+   "done": false
+  },
+  {
+   "job": "VOICE_S23_GRAPES",
+   "type": "voice",
+   "shot": "S23",
+   "who": "GRAPES",
+   "mode": "vo",
+   "voice": "Six small, high, fast voices, mixed male and female, each with its own texture: one squeaky, one hoarse, one bossy, one whiny, one mumbling, one sing-song. They overlap constantly. Pitched up and fast; never in unison.",
+   "line": "SHUT UP, GERALD.",
+   "output": "audio/S23_GRAPES.wav",
+   "done": false
+  }
+ ]
+}
