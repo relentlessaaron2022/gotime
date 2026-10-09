@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bamboo Solid 2000 Series Sheet Set</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&family=Montserrat:wght@500;700&display=swap">
+<style>
+  /* Reference section only. Copy the markup + script into any page builder that accepts custom HTML. */
+  :root { --cream: #FBF6EC; --ink: #26332A; --gold: #A97C25; --line: #E1D7C4; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--cream); color: var(--ink); font-family: Montserrat, Arial, sans-serif; }
+  .bb { max-width: 1200px; margin: 0 auto; padding: 48px 16px; display: grid; gap: 32px; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); align-items: start; }
+  @media (max-width: 860px) { .bb { grid-template-columns: 1fr; } }
+  .bb-film { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 50px -25px rgba(40, 30, 10, .5); background: #EFE6D7; }
+  .bb-film iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .bb-eyebrow { font-size: 12px; letter-spacing: .22em; font-weight: 700; color: var(--gold); text-transform: uppercase; }
+  .bb h2 { font-family: "Playfair Display", Georgia, serif; font-size: clamp(30px, 4vw, 44px); line-height: 1.08; margin: 8px 0 12px; }
+  .bb h2 em { color: var(--gold); }
+  .bb p { line-height: 1.6; margin: 0 0 20px; }
+  .bb-label { font-size: 13px; margin: 18px 0 10px; }
+  .bb-label b { font-weight: 700; }
+  .bb-sizes, .bb-colors { display: flex; flex-wrap: wrap; gap: 10px; }
+  .bb-size { font: 700 14px Montserrat, Arial, sans-serif; padding: 10px 18px; border-radius: 999px; border: 1px solid var(--line); background: #fff; color: var(--ink); cursor: pointer; }
+  .bb-size small { font-weight: 500; opacity: .7; margin-left: 6px; }
+  .bb-size[aria-pressed="true"] { background: var(--ink); color: var(--cream); border-color: var(--ink); }
+  .bb-sw { width: 38px; height: 38px; border-radius: 50%; border: 2px solid var(--line); background: var(--c); cursor: pointer; padding: 0; }
+  .bb-sw[aria-pressed="true"] { box-shadow: 0 0 0 3px var(--cream), 0 0 0 5px var(--gold); border-color: var(--gold); }
+  .bb-replay { margin-top: 22px; font: 700 14px Montserrat, Arial, sans-serif; background: none; border: 0; color: var(--gold); cursor: pointer; padding: 0; text-decoration: underline; }
+  button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+</style>
+</head>
+<body>
+
+<!-- ===== BAMBOO BAG-TO-BED SECTION: START ===== -->
+<section class="bb" id="bamboo-sheets">
+  <div class="bb-film">
+    <!-- Point src at wherever bag-to-bed.html is hosted -->
+    <iframe id="bbFilm" src="bag-to-bed.html?embed&color=Teal&size=Queen" title="Bamboo sheets go from the bag to a made bed" loading="lazy" allow="autoplay"></iframe>
+  </div>
+  <div>
+    <div class="bb-eyebrow">Bamboo Solid 2000 Series</div>
+    <h2>The softest sheets on <em>Earth.</em></h2>
+    <p>Six pieces in every bag: a deep-pocket fitted sheet, a flat sheet, and four pillowcases. Pick your color and watch it land on the bed.</p>
+
+    <div class="bb-label">Size: <b id="bbSizeName">Queen</b></div>
+    <div class="bb-sizes" id="bbSizes">
+      <button type="button" class="bb-size" data-size="Queen" aria-pressed="true">Queen<small>60" × 80"</small></button>
+      <button type="button" class="bb-size" data-size="King" aria-pressed="false">King<small>76" × 80"</small></button>
+    </div>
+
+    <div class="bb-label">Color: <b id="bbColorName">Teal</b></div>
+    <div class="bb-colors" id="bbColors"></div>
+
+    <button type="button" class="bb-replay" id="bbReplay">Watch it again</button>
+  </div>
+</section>
+
+<script>
+(() => {
+  const COLORS = [
+    ['Gold', '#C48A2C'], ['Teal', '#1C8486'], ['Chocolate', '#5B3726'], ['White', '#F1EEE8'],
+    ['Burgundy', '#8C1C2D'], ['Charcoal', '#4B4C51'], ['Navy', '#1F2D57'], ['Taupe', '#A39275'],
+    ['Sage', '#8A9C84'], ['Burnt Orange', '#CF6128'], ['Blush', '#E9CCC7'], ['Black', '#1C1C1E']
+  ];
+  const film = document.getElementById('bbFilm');
+  const send = msg => film.contentWindow && film.contentWindow.postMessage(Object.assign({ type: 'bamboo' }, msg), '*');
+
+  const wrap = document.getElementById('bbColors');
+  COLORS.forEach(([name, hex]) => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.className = 'bb-sw'; b.style.setProperty('--c', hex);
+    b.setAttribute('aria-label', name); b.title = name;
+    b.setAttribute('aria-pressed', name === 'Teal');
+    b.addEventListener('click', () => {
+      wrap.querySelectorAll('.bb-sw').forEach(s => s.setAttribute('aria-pressed', s === b));
+      document.getElementById('bbColorName').textContent = name;
+      send({ color: name });
+    });
+    wrap.appendChild(b);
+  });
+
+  document.querySelectorAll('.bb-size').forEach(b => b.addEventListener('click', () => {
+    document.querySelectorAll('.bb-size').forEach(s => s.setAttribute('aria-pressed', s === b));
+    document.getElementById('bbSizeName').textContent = b.dataset.size;
+    send({ size: b.dataset.size });
+  }));
+
+  document.getElementById('bbReplay').addEventListener('click', () => send({ action: 'replay' }));
+})();
+</script>
+<!-- ===== BAMBOO BAG-TO-BED SECTION: END ===== -->
+
+</body>
+</html>
