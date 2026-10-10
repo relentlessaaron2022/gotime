@@ -15,6 +15,8 @@ Everything here is finished and tested. The only remaining job is the page aroun
 | `landing-embed-example.html` | A working product section: the film on the left, size and color buttons on the right. | Copy the section into the landing page |
 | `bamboo-queen-teal.mp4` | 30s video, 1920×1080, Queen, Teal | Hero video, social, ads |
 | `bamboo-king-black.mp4` | 30s video, 1920×1080, King, Black | Hero video, social, ads |
+| `bamboo-vertical-queen-teal.mp4` | 30s vertical video, 1080×1920, Queen, Teal | Reels, TikTok, Stories, Shorts |
+| `bamboo-vertical-king-black.mp4` | 30s vertical video, 1080×1920, King, Black | Reels, TikTok, Stories, Shorts |
 | `stills/queen-*.jpg`, `stills/king-*.jpg` | 24 images of the finished bed: 12 colors × 2 sizes, 1920×1080 | Backup if the builder can't run code, plus product thumbnails |
 | `render-video.js` | Renders the film to MP4 in any color and size | Making more videos |
 
@@ -64,6 +66,7 @@ bag-to-bed.html?embed&color=Teal&size=Queen
 | `embed` | (no value) | Hides the film's own buttons so only the scene shows |
 | `color` | Any color name above. Use `-` or `%20` for spaces, e.g. `Burnt-Orange` | Teal |
 | `size` | `Queen` or `King` | Queen |
+| `format` | `wide` (16:9) or `vertical` (9:16) | wide |
 | `loop` | `1` to play on repeat | Plays once, then holds on the made bed |
 | `cycle` | `1` to flash through several colors at the end | Off in embed mode, so the shopper's pick stays on the bed |
 
@@ -86,6 +89,8 @@ window.addEventListener('message', e => {
   // events: 'ready' when loaded, 'ended' when the 30s finishes
 });
 ```
+
+**Social media needs the MP4 files, not the HTML.** Instagram, TikTok, Facebook and YouTube only accept uploaded video. Post the vertical MP4s for Reels, TikTok and Stories. The HTML is for the website.
 
 ---
 
